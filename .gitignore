@@ -1,0 +1,20 @@
+# dataset and run outputs
+data/
+results/
+
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# notebooks / models
+.ipynb_checkpoints/
+*.h5
+*.keras
+
+# os
+.DS_Store
+Thumbs.db
